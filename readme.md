@@ -1,1 +1,1 @@
-An open source project to self learn more about computer networking by creating a HTTP server in C++
+An open source project to self learn more about network programming by creating a HTTP server in C++
